@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="26" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-213e9bef:174ffdb468c:-8000" />
