@@ -22,11 +22,11 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
   </action>
   <action id="GotoFile" />
   <action id="Maven.ExecuteGoal">
-    <keyboard-shortcut first-keystroke="shift meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta quotedbl" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MoveTabRight">
