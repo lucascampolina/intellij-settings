@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="consultaSaldoESituacao" type="AUTO_DETECTED" />
       <mapping pattern="teste.wsdl" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
