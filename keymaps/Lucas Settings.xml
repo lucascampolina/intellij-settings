@@ -55,4 +55,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="UsageGrouping.FileStructure" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
