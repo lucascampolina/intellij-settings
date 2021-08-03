@@ -4,6 +4,7 @@
       <list>
         <option value="src/main/java/inter/configuration/**" />
         <option value="src/target/generated-sources/**" />
+        <option value="src/target/soap/**" />
       </list>
     </option>
     <rules />
