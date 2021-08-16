@@ -29,6 +29,9 @@
     <keyboard-shortcut first-keystroke="meta underscore" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="Git.Branches">
