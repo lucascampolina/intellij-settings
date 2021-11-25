@@ -1,0 +1,9 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+</keymap>

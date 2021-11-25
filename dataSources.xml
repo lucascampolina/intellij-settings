@@ -1,0 +1,19 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@investmentRv" uuid="5f2235f2-368f-42a8-acd5-d41d9e8dd070">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://interrds5057.cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/InvestimentoRv?currentSchema=investimento&amp;rewriteBatchedStatements=true&amp;cachePrepStmts=true&amp;useServerPrepStmts=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="oracle@sinacor" uuid="03083149-5869-4965-903f-74a2ad1f7972">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//interrds5007b-05.citxg1tksgt1.sa-east-1.rds.amazonaws.com:1521/ORCL</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>

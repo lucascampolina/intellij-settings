@@ -2,7 +2,9 @@
   <component name="Trusted.Paths.Settings">
     <option name="TRUSTED_PATHS">
       <list>
-        <option value="$USER_HOME$/workspace/teste" />
+        <option value="$USER_HOME$/workspace" />
+        <option value="$USER_HOME$/utilworkspace" />
+        <option value="$USER_HOME$/Documents" />
       </list>
     </option>
   </component>

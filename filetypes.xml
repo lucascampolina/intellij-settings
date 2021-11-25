@@ -1,11 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="teste.wsdl" type="AUTO_DETECTED" />
+      <mapping pattern="consultaSaldoESituacao" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".xjc-xjcStaleFlag" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="hcl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tfvars" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

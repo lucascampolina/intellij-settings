@@ -1,0 +1,64 @@
+<keymap version="1" name=" Lucas Settings" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="meta alt underscore" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta underscore" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
+  </action>
+  <action id="GotoFile" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="MaximizeToolWindow" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="UsageGrouping.FileStructure" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+</keymap>
