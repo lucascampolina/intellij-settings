@@ -45,7 +45,7 @@
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="Maven.Reimport">
-    <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MoveTabRight">
@@ -54,6 +54,7 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="ShowRecentTests" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
