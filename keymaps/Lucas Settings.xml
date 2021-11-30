@@ -1,4 +1,7 @@
 <keymap version="1" name=" Lucas Settings" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -31,6 +34,9 @@
     <keyboard-shortcut first-keystroke="meta underscore" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -56,6 +62,10 @@
   <action id="MaximizeToolWindow" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
