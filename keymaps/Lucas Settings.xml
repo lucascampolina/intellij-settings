@@ -11,6 +11,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="CloseAllEditors">
@@ -40,10 +43,14 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
