@@ -33,15 +33,22 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta underscore" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.Submit" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
@@ -53,6 +60,7 @@
   <action id="GotoLine" />
   <action id="GotoRow" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="KotlinShellExecute" />
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
@@ -65,18 +73,24 @@
   </action>
   <action id="NewScratchFile" />
   <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="shift n" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowRecentTests" />
+  <action id="SplitChooser.Duplicate" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="ViewSource" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
