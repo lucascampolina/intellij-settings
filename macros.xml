@@ -60,5 +60,14 @@
       <action id="EditorNextWord" />
       <action id="EditorEnter" />
     </macro>
+    <macro name="hhhh">
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="EditorPaste" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
   </component>
 </application>
