@@ -68,6 +68,9 @@
   <action id="GotoRow" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.TesteMacro">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>

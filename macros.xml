@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="CsvBindName">
+      <typing text-keycode="50:1">@</typing>
+      <action id="EditorChooseLookupItem" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+    </macro>
+    <macro name="TesteMacro">
+      <typing text-keycode="50:1;67:1;83:0;86:0;66:1;73:0;78:0;68:0;66:1;89:0;78:1;65:0;77:0;69:0">@CsvBindByName</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDown" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>
