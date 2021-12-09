@@ -20,5 +20,29 @@
       <action id="EditorEnter" />
       <action id="EditorUp" />
     </macro>
+    <macro name="Temp">
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorEnter" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorEnter" />
+    </macro>
+    <macro name="tesss">
+      <action id="EditorDown" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorDown" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorDown" />
+      <action id="EditorBackSpace" />
+    </macro>
   </component>
 </application>
