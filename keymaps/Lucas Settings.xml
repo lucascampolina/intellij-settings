@@ -68,7 +68,7 @@
   <action id="GotoRow" />
   <action id="Images.Editor.ToggleGrid" />
   <action id="KotlinShellExecute" />
-  <action id="Macro.tesss">
+  <action id="Macro.broke spaces">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="Maven.ExecuteGoal">

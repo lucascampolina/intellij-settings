@@ -44,5 +44,21 @@
       <action id="EditorDown" />
       <action id="EditorBackSpace" />
     </macro>
+    <macro name="broke spaces">
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+    </macro>
   </component>
 </application>
