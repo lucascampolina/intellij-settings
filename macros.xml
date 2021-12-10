@@ -69,5 +69,13 @@
       <action id="EditorDown" />
       <action id="EditorLineStart" />
     </macro>
+    <macro name="csvBind">
+      <action id="EditorPaste" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+    </macro>
   </component>
 </application>
