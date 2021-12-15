@@ -77,5 +77,11 @@
       <action id="EditorEnter" />
       <action id="EditorUp" />
     </macro>
+    <macro name="test">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="32:0;32:0;521:1">&amp;#x20;&amp;#x20;+</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
   </component>
 </application>
