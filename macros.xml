@@ -83,5 +83,11 @@
       <action id="EditorDown" />
       <action id="EditorLineStart" />
     </macro>
+    <macro name="tessss">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="32:0;521:1">&amp;#x20;+</typing>
+      <action id="EditorDown" />
+      <action id="EditorLineStart" />
+    </macro>
   </component>
 </application>
