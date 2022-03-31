@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="postgres@investmentRv" uuid="5f2235f2-368f-42a8-acd5-d41d9e8dd070">
+    <data-source source="LOCAL" name="postgres@investmentRv@RDS5057" uuid="5f2235f2-368f-42a8-acd5-d41d9e8dd070">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -13,6 +13,13 @@
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//interrds5007-05.citxg1tksgt1.sa-east-1.rds.amazonaws.com:1521/ORCL?currentSchema=investimento</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@investmentRv@RDS5058" uuid="82f3107b-4265-46be-bd7f-8212ccd7b344">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://interrds5058.cluster-cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/investimentos?currentSchema=</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
