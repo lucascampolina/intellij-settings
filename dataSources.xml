@@ -22,5 +22,12 @@
       <jdbc-url>jdbc:postgresql://interrds5058.cluster-cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/investimentos?currentSchema=corrwin</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="investmentRv@RDS5058-Inv" uuid="5253b751-2064-4d40-83ec-24212bda2e26">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://interrds5058.cluster-cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/investimentos?currentSchema=corrwin</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
