@@ -38,7 +38,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.Submit" />
+  <action id="DatabaseView.Tools" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -55,6 +57,7 @@
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta 7" />
@@ -88,9 +91,9 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="meta enter" />
-  </action>
+  <action id="ProblemsView.QuickFixes" />
+  <action id="SetShortcutAction" />
+  <action id="ShowIntentionActions" />
   <action id="ShowRecentTests" />
   <action id="SplitChooser.Duplicate" />
   <action id="Stop">
