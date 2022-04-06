@@ -57,7 +57,6 @@
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta 7" />
@@ -93,7 +92,9 @@
   </action>
   <action id="ProblemsView.QuickFixes" />
   <action id="SetShortcutAction" />
-  <action id="ShowIntentionActions" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowRecentTests" />
   <action id="SplitChooser.Duplicate" />
   <action id="Stop">
