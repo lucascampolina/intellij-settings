@@ -51,6 +51,7 @@
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoModule" />
