@@ -2,14 +2,22 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
-  <action id="ActivateDatabaseToolWindow">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
@@ -41,6 +49,7 @@
   <action id="DatabaseView.Tools" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -54,6 +63,7 @@
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
@@ -69,7 +79,12 @@
   <action id="GotoFile" />
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="Macro.test">
     <keyboard-shortcut first-keystroke="meta m" />
@@ -81,9 +96,6 @@
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="MaximizeToolWindow" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="NewScratchFile" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
