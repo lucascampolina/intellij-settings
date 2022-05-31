@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="git.link.notification.important" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
