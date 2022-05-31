@@ -1,5 +1,6 @@
 <application>
   <component name="GreenlightSetting">
+    <option name="autoScanEnable" value="false" />
     <option name="externalCredentialsEnable" value="true" />
   </component>
 </application>
