@@ -1,5 +1,6 @@
 <application>
   <component name="JpaPluginApplicationSettings">
-    <option name="notificationShownTimes" value="1" />
+    <option name="dontShowToolWindowNotification" value="true" />
+    <option name="notificationShownTimes" value="2" />
   </component>
 </application>
