@@ -22,5 +22,12 @@
       <jdbc-url>jdbc:postgresql://interrds5058.cluster-cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/investimentos?currentSchema=corrwin</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="postgres@internet-banking" uuid="ac659c37-58a8-4b62-8543-a44ae7a16918">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://interrds5004.cj24dl6fn12g.sa-east-1.rds.amazonaws.com:5432/internetBanking?currentSchema=public</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
