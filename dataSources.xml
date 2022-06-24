@@ -29,7 +29,7 @@
       <jdbc-url>jdbc:postgresql://interrds5004.cj24dl6fn12g.sa-east-1.rds.amazonaws.com:5432/internetBanking?currentSchema=public</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="investimentos@PRD-interrds1058ee.cluster-ro-cj24dl6fn12g.sa-east-1.rds.amazonaws.com" uuid="aed382a2-e5d3-4b4e-94ff-172e70cd8246">
+    <data-source source="LOCAL" name="investimentos@PRD-INVESTIMENTOS-interrds1057.cj24dl6fn12g.sa-east-1" uuid="aed382a2-e5d3-4b4e-94ff-172e70cd8246">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
