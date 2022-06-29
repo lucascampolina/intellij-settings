@@ -22,7 +22,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -57,6 +56,23 @@
                   <option value="com.intellij.modules.java" />
                   <option value="com.intellij.modules.platform" />
                   <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.kubernetes">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.khmelyuk.multirun">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
