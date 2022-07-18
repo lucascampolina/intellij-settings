@@ -96,6 +96,9 @@
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="NewScratchFile" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
