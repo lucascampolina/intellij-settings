@@ -1,13 +1,13 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="postgres@investmentRv@RDS5057" uuid="5f2235f2-368f-42a8-acd5-d41d9e8dd070">
+    <data-source source="LOCAL" name="hml-rds5057@InvestmentoRv" uuid="5f2235f2-368f-42a8-acd5-d41d9e8dd070">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://interrds5057.cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/InvestimentoRv?currentSchema=investimento&amp;rewriteBatchedStatements=true&amp;cachePrepStmts=true&amp;useServerPrepStmts=true</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="oracle@sinacor" uuid="03083149-5869-4965-903f-74a2ad1f7972">
+    <data-source source="LOCAL" name="hml-rds-5007@sinacor@investimento" uuid="03083149-5869-4965-903f-74a2ad1f7972">
       <driver-ref>oracle.19</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
@@ -15,21 +15,21 @@
       <jdbc-url>jdbc:oracle:thin:@//interrds5007-05.citxg1tksgt1.sa-east-1.rds.amazonaws.com:1521/ORCL?currentSchema=investimento</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres@investmentRv@RDS5058" uuid="82f3107b-4265-46be-bd7f-8212ccd7b344">
+    <data-source source="LOCAL" name="hml-rds5058@investimentos@corrwin" uuid="82f3107b-4265-46be-bd7f-8212ccd7b344">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://interrds5058.cluster-cdmunsbxeniq.us-east-1.rds.amazonaws.com:5432/investimentos?currentSchema=corrwin</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres@internet-banking" uuid="ac659c37-58a8-4b62-8543-a44ae7a16918">
+    <data-source source="LOCAL" name="hml-rds5004@internetBanking@public" uuid="ac659c37-58a8-4b62-8543-a44ae7a16918">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://interrds5004.cj24dl6fn12g.sa-east-1.rds.amazonaws.com:5432/internetBanking?currentSchema=public</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="investimentos@PRD-INVESTIMENTOS-interrds1057.cj24dl6fn12g.sa-east-1" uuid="aed382a2-e5d3-4b4e-94ff-172e70cd8246">
+    <data-source source="LOCAL" name="prd-rds-1057@InvestimentoRv" uuid="aed382a2-e5d3-4b4e-94ff-172e70cd8246">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>

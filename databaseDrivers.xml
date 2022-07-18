@@ -7,10 +7,10 @@
       <artifact id="SQL Server" name="SQL Server" use="true" version="9.2.0" />
     </driver>
     <driver id="oracle.19">
-      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+      <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
     </driver>
     <driver id="${INVESTMENT_DATABASE_DRIVER_CLASS_NAME}" name="${INVESTMENT_DATABASE_DRIVER_CLASS_NAME}" driver-class="${INVESTMENT_DATABASE_DRIVER_CLASS_NAME}" />
   </component>
