@@ -9,6 +9,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
       <mapping pattern=".xjc-xjcStaleFlag" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="hcl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="hcl" approved="true" type="YAML" />
